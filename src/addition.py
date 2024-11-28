@@ -1,7 +1,7 @@
 # app.py
 # This is original commit
 #This is a second commit
-def add(a, b):
+def add(a, b)
     return a + b
 
 def test_add():
